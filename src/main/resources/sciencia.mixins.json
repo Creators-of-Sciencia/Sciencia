@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "priority": 1100,
+  "package": "net.huebcraft.sciencia.foundation.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "create.refmap.json",
+  //"plugin": "net.huebcraft.sciencia.foundation.mixin.ScienciaMixinPlugin",
+  "mixins": [
+
+  ],
+  "client": [
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
